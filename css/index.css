@@ -3431,7 +3431,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #footer-wrap a {
-  color: var(--light-grey);
+  color: var(--anzhiyu-black);
 }
 #footer-wrap a:hover {
   text-decoration: underline;
