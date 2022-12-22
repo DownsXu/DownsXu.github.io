@@ -128,6 +128,14 @@ if(m==7&&dd==1){//建党节
         sessionStorage.setItem("isPopupWindow","1");
     }
 }
+if(m==12&&dd==22){//建党节
+    console.log("今天冬至你吃饺子了吗ψ(｀∇´)ψ");
+    if(sessionStorage.getItem("isPopupWindow")!="1"){
+        Swal.fire("今天冬至你吃饺子了吗ψ(｀∇´)ψ");
+        sessionStorage.setItem("isPopupWindow","1");
+    }
+}
+
 
 //传统节日部分
 
