@@ -18110,13 +18110,13 @@ a:-webkit-any-link {
     }
 
     [data-theme="light"] #fps{
-        background-color: var(--anzhiyu-white);
+        background-color: var();
         padding: 4px;
         border-radius: 4px;
         backdrop-filter: blur(10px);
     }
     [data-theme="dark"] #fps{
-        background-color: var(--anzhiyu-black);
+        background-color: var();
         padding: 4px;
         border-radius: 4px;
         backdrop-filter: blur(10px);
