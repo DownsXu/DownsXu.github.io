@@ -3758,6 +3758,15 @@ h1.page-title + .tag-cloud-list {
   -ms-flex: 1;
   flex: 1;
 }
+#nav #none_space {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
 #nav #toggle-menu {
   display: none;
   padding: 2px 0 0 6px;
